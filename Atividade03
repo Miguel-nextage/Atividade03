@@ -1,0 +1,8 @@
+# Crie um programa que calcule a área de um retângulo, pedindo ao usuário a largura e a altura.
+
+valB = int(input("Indique sua base aqui"))
+valA = int(input("Indique sua altura aqui"))
+
+Area = int(valB * valA)
+
+print(F"Sua area é {Area}")
